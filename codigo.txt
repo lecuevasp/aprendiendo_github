@@ -3,6 +3,7 @@
 # mkdir carpeta
 # touch arvhivo.extension
 
+
 ## COMANDOS GIT
 
 # git init
@@ -10,3 +11,10 @@
 # git commit
 # git status
 # git log
+# git revert
+# git diff-tree --no-commit-id --name-only -r 
+# git show
+# git branch
+# git checkout
+# git merge
+

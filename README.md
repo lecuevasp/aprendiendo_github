@@ -6,4 +6,4 @@ Este repositorio contiene un archivo en lenguaje Python.
 
 Se ejecuta de la siguiente forma python3 funciones_matematicas.py
 
-Además tenemos un archivo llamado `codigo.txt` que muestra los principales comandos para Git.
+Además, tenemos un archivo llamado `codigo.txt` que muestra los principales comandos para Git.
